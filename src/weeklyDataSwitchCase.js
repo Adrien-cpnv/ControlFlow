@@ -1,4 +1,4 @@
-switch (4) {
+switch (3) {
     case 0:
         day = "Sunday";
         break;
